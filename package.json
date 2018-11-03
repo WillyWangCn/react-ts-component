@@ -14,6 +14,10 @@
   ],
   "author": "Willy Wang",
   "license": "ISC",
+  "peerDependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  },
   "devDependencies": {
     "@types/react": "^16.4.18",
     "@types/react-dom": "^16.0.9",
